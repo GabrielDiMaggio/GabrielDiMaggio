@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielDiMaggio
-- 👀 I’m interested in coding and gym
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Java, JavaScript, CSS, Python, SQL
 - 💞️ I’m looking to collaborate on school projects
 - 📫 How to reach me: instagram: @gabrieldimaggio
